@@ -9,9 +9,9 @@ In this project, I propose a robust deep learning-based sign language recognitio
 
 #### Dierction to set it up for an experiment
 
-The file titled "Sign_Language" has two folders - Dataset_I, and Dataset_II. Dataset_I has small images in grayscale format. In addition, it has 24 classe from A to Z(excluding J and Z). However, Dataset II is more complex, and has colored and high resolution images. In addition, it has 27 classes with the addition of SPACE, DELETE, NOTHING.
+The folder titled "Sign_Language" has two folders - Dataset_I, and Dataset_II. Dataset_I has small images in grayscale format. In addition, it has 24 classe from A to Z(excluding J and Z). However, Dataset II is more complex, and has colored and high resolution images. In addition, it has 27 classes with the addition of SPACE, DELETE, NOTHING.
 
-In addition, The file titled "Sign_Language" has 4 jupyter notebook files named named as "Best_pretrained_model.ipynb", "SML_310_Project_1.ipynb", "SML_310_Project_3.ipynb", and "SML_310_Project_4.ipynb".
+In addition, The folder titled "Sign_Language" has 4 jupyter notebook files named named as "Best_pretrained_model.ipynb", "SML_310_Project_1.ipynb", "SML_310_Project_3.ipynb", and "SML_310_Project_4.ipynb".
 
 
 "SML_310_Project_1.ipynb" is the jupyter notebook that has the code for dataset I. This notebook has Sign_LanguageNet trained on Dataset I. In addition, it has the transfer learning methods tested on Dataset I.
