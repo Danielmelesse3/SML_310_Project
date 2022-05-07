@@ -18,7 +18,7 @@ In addition, The folder titled "Sign_Language" has 4 jupyter notebook files name
 
 "Best_pretrained_model.ipynb"- This has the code for dataset II. This code is used to get the best pretrained model among the seven known pretrained models such as MobileNet, DenseNet, ResNet, EfficientNet, InceptionNet, XceptionNet, and VGG.
 
-"SML_310_Project_3.ipynb"- This has the complete code that trains and evaluate Dataset II using MobileNet, which has 27 classes.
+"SML_310_Project_3.ipynb"- This has the complete code that trains and evaluates Dataset II using MobileNet, which has 27 classes.
 
  "SML_310_Project_4.ipynb"- This implements/tests Sign_LanguageNet on Dataset II.
 
